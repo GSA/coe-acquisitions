@@ -16,4 +16,4 @@ Please remember these are only templates we use to build out Phase II procuremen
 
 ## Questions
 
-If you have any questions or issues with the files, the form, or otherwise, please don't hesitate to use the [Issues](Issues) tab. Otherwise, we can't wait to read your thoughts and ideas!
+If you have any questions or issues with the files, the form, or otherwise, please don't hesitate to use the [Issues](../../issues) tab. Otherwise, we can't wait to read your thoughts and ideas!
