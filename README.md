@@ -16,9 +16,16 @@ Please remember these are only templates we use to build out Phase II procuremen
 
 ## Current CoE projects
 
-We have begun using individual repositories for each of our agency partners. These are the project repositories currently active, starting with the Discovery BPA and then each agency repository listed in alphabetical order:
+We have begun using individual repositories for each of our acquisition projects. These are the project repositories currently active, listed in alphabetical order:
 
+* [CoE MPP - Process](https://github.com/GSA/coe-mpp-process)
+* [CoE MPP - Template](https://github.com/GSA/coe-mpp-template)
 * [Discovery BPA](https://github.com/GSA/coe-discovery-bpa)
+
+## Current CoE engagements
+
+We have begun using individual repositories for each of our agency partners. These are the main repositories currently active, listed in alphabetical order:
+
 * [U.S. Consumer Product Safety Commission (CPSC)](https://github.com/GSA/coe-cpsc-acquisitions)
 * [U.S. Housing and Urban Development (HUD)](https://github.com/GSA/coe-hud-acquisitions)
 * [U.S. Office of Personnel Management (OPM)](https://github.com/GSA/coe-opm-acquisitions)
