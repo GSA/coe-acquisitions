@@ -1,6 +1,10 @@
-# CoE Acquisitions
+<h1><img src="https://coe.gsa.gov/img/coe-logomark.svg" width="40px" align="top" alt="The Centers of Excellence Logo"> Centers of Excellence / Acquisitions</h1>
 
-## Introduction
+#### We partner with agencies to accelerate IT modernization, improve public experience, and increase operational efficiency. [Learn more »](https://coe.gsa.gov/about/)
+
+---
+
+## Overview of CoE Acquisitions
 
 At the Centers of Excellence (CoE), we emphasize user-centric approaches in the technical solutions we help agencies implement. In order to do the same for our acquisitions, we have posted the templates we use to build out our procurement packages to this repository.
 
