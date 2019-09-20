@@ -18,9 +18,10 @@ Please remember these are only templates we use to build out Phase II procuremen
 
 We have begun using individual repositories for each of our acquisition projects. These are the project repositories currently active, listed in alphabetical order:
 
-* [CoE MPP - Process](https://github.com/GSA/coe-mpp-process)
-* [CoE MPP - Template](https://github.com/GSA/coe-mpp-template)
-* [Discovery BPA](https://github.com/GSA/coe-discovery-bpa)
+* [CoE MPP](https://github.com/GSA/CoE-MPP/) - A micro-purchase platform for procurements under $10k.
+   * [CoE MPP - Process](https://github.com/GSA/coe-mpp-process) - A repo outlining the process.
+   * [CoE MPP - Template](https://github.com/GSA/coe-mpp-template) - A repo showing what it would look like if you did this for yourself.
+* [Discovery BPA](https://github.com/GSA/coe-discovery-bpa) - The Blanket Purchase Agreement we'll be using for Discovery and Assessment work.
 
 ## Current CoE engagements
 
