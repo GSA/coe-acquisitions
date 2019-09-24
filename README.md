@@ -33,8 +33,8 @@ We have begun using individual repositories for each of our acquisition projects
 
 We have begun using individual repositories for each of our agency partners. These are the main repositories currently active, listed in alphabetical order:
 
-* [U.S. Department of Defense - Joint Artificial Intelligence Center (JAIC)](https://github.com/GSA/coe-jaic-acquisitions)
 * [U.S. Consumer Product Safety Commission (CPSC)](https://github.com/GSA/coe-cpsc-acquisitions)
+* [U.S. Department of Defense - Joint Artificial Intelligence Center (JAIC)](https://github.com/GSA/coe-jaic-acquisitions)
 * [U.S. Housing and Urban Development (HUD)](https://github.com/GSA/coe-hud-acquisitions)
 * [U.S. Office of Personnel Management (OPM)](https://github.com/GSA/coe-opm-acquisitions)
 
