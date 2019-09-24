@@ -2,8 +2,6 @@
 
 #### We partner with agencies to accelerate IT modernization, improve public experience, and increase operational efficiency. [Learn more »](https://coe.gsa.gov/about/)
 
-_A product of [the General Services Administration](https://www.gsa.gov) (GSA)._
-
 ---
 
 ## Overview of CoE Acquisitions
