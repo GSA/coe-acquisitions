@@ -33,11 +33,11 @@ We have begun using individual repositories for each of our agency partners. The
 
 * [U.S. Department of Defense - Joint Artificial Intelligence Center (JAIC)](https://github.com/GSA/coe-jaic-acquisitions)
 * [U.S. Department of Labor (DOL)](https://github.com/GSA/coe-dol-acquisitions)
+* [U.S. Food and Drug Administration (FDA)](https://github.com/GSA/coe-fda-acquisitions) 
 * [U.S. Government Accountability Office (GAO)](https://github.com/GSA/coe-gao-acquisitions)
 * [U.S. Housing and Urban Development (HUD)](https://github.com/GSA/coe-hud-acquisitions)
-* [U.S. Office of Personnel Management (OPM)](https://github.com/GSA/coe-opm-acquisitions)
 * [National Institutes of Health - National Institute of Child Health and Human Development (NICHD)](https://github.com/GSA/coe-nichd-acquisitions)
-* [U.S. Food and Drug Administration (FDA)](https://github.com/GSA/coe-fda-acquisitions) 
+* [U.S. Office of Personnel Management (OPM)](https://github.com/GSA/coe-opm-acquisitions)
 
 ## Questions
 
